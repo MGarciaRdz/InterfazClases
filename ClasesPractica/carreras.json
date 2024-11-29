@@ -1,0 +1,36 @@
+[
+    {
+        "nombre_carrera": "Ingenieria en TIC's",
+        "grupos": [
+            {
+                "grupo": "Grupo 7A",
+                "alumnos": [
+                    {
+                        "nombres": "Daniel",
+                        "apellido_paterno": "Sanchez",
+                        "apellido_materno": "Perez",
+                        "curp": "SAPE30342HGLRDRO9",
+                        "matricula": 41806389
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre_carrera": "Ingenieria Mecatr\u00f3nica",
+        "grupos": [
+            {
+                "grupo": "Grupo 7B",
+                "alumnos": [
+                    {
+                        "nombres": "Ana",
+                        "apellido_paterno": "Lopez",
+                        "apellido_materno": "Martinez",
+                        "curp": "LOMA20422FGTDMN99",
+                        "matricula": 41806400
+                    }
+                ]
+            }
+        ]
+    }
+]

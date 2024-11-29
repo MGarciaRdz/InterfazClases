@@ -1,0 +1,40 @@
+[
+    {
+        "grupo": "Grupo A",
+        "alumnos": [
+            {
+                "nombres": "Daniel",
+                "apellido_paterno": "Sanchez",
+                "apellido_materno": "Perez",
+                "curp": "SAPE30342HGLRDRO9",
+                "matricula": 41806389
+            },
+            {
+                "nombres": "Ana",
+                "apellido_paterno": "Lopez",
+                "apellido_materno": "Martinez",
+                "curp": "LOMA20422FGTDMN99",
+                "matricula": 41806400
+            }
+        ]
+    },
+    {
+        "grupo": "Grupo B",
+        "alumnos": [
+            {
+                "nombres": "Marco",
+                "apellido_paterno": "Sanchez",
+                "apellido_materno": "Perez",
+                "curp": "SAPE30342HGLRDRO9",
+                "matricula": 41806389
+            },
+            {
+                "nombres": "Francisco",
+                "apellido_paterno": "Lopez",
+                "apellido_materno": "Martinez",
+                "curp": "LOMA20422FGTDMN99",
+                "matricula": 41806400
+            }
+        ]
+    }
+]
